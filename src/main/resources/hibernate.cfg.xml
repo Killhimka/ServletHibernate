@@ -7,7 +7,7 @@
     <property name="connection.url">jdbc:mysql://localhost:3306/pets</property>
     <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
     <property name="connection.username">root</property>
-    <property name="connection.password">Himk@175554175</property>
+    <property name="connection.password">1234</property>
     <mapping resource="Pets.hbm.xml"/>
       <mapping class="ru.javabegin.hibernate.entity.Pets"/>
       <!-- <property name="connection.username"/> -->
